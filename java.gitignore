@@ -1,0 +1,7 @@
+#Ignoring files
+
+*.class
+
+*.settings
+
+*.project
